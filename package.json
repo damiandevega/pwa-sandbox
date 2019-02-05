@@ -1,10 +1,10 @@
 {
   "name": "pwa-sandbox",
   "version": "1.0.0",
-  "description": "A sandbox environment for learning and practicin progressive web apps",
+  "description": "a sandbox project for practicing and learning about progressive web apps",
   "main": "index.js",
   "scripts": {
-    "start": "http-server -c-1 -p 3000"
+    "start": "http-server -c-1"
   },
   "keywords": [
     "pwa",
