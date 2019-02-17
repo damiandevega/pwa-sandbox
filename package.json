@@ -1,7 +1,7 @@
 {
-  "name": "pwa-sandbox",
+  "name": "pwa-complete-guide",
   "version": "1.0.0",
-  "description": "a sandbox project for practicing and learning about progressive web apps",
+  "description": "A complete guide to PWAs. Building a simple Instagram clone.",
   "main": "index.js",
   "scripts": {
     "start": "http-server -c-1"
@@ -14,7 +14,7 @@
     "complete",
     "tutorial"
   ],
-  "author": "Damian de Vega",
+  "author": "Maximilian Schwarzmüller",
   "license": "ISC",
   "devDependencies": {
     "http-server": "^0.10.0"
