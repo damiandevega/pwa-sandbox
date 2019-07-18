@@ -1,4 +1,5 @@
 # Progressive Web Apps - Sandbox
+
 A sandbox project for practicing and learning about progressive web apps.
 
 # How to Use
